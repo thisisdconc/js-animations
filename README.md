@@ -1,1 +1,1 @@
-# js-animations
+# js-animation
