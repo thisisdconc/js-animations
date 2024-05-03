@@ -1,0 +1,49 @@
+@import url("http://font.cdn-qspace.rf.gd/import/font.css");
+@import url("http://element.cdn-qspace.rf.gd/css/button.css");
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #495057;
+}
+
+canvas{
+	border-radius: 10px;
+	background-color: #ADB5BD;
+}
+
+.titoli{
+	text-align: center;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+h1{
+	font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #E9ECEF;
+	font-size: 40px;
+}
+
+h3{
+	font-family: Poppins, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: #E9ECEF;
+	font-size: 25px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+	color: #E9ECEF !important;
+}
+
+button:hover{
+	background-color: #6C757D !important;
+}
