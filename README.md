@@ -51,6 +51,7 @@ const id = setInterval(() => {
     if (x >= canvas.width) {
         clearInterval(id);
     }
-}, 100);```
+}, 100);
+```
 
 In this example, a canvas element with the id "canvas" is created in the HTML. The JavaScript code initializes the canvas, sets the stroke style and line width, and draws a square on the canvas. It then loops through the canvas width, clearing the canvas and drawing a square at each iteration. Finally, it animates the square moving from left to right using a setInterval function.
